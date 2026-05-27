@@ -1,0 +1,11 @@
+This is my first git content.
+
+Project Name: Student Verification
+Purpose: This app is created for practice and learning Git.
+Created By: Monisha
+Technology Used: Frappe Framework / Python
+Status: Initial version
+
+Today I created one folder and one text file.
+Now I am going to add this file into Git repository.
+This is my first commit in Git.
